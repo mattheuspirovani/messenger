@@ -16,3 +16,4 @@ A new messenger app developed using Flutter.
 <a href="https://ibb.co/02LMxRs"><img src="https://i.ibb.co/sR4wZdW/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2021-12-11-at-16-07-06.png" alt="Simulator-Screen-Shot-i-Phone-11-Pro-Max-2021-12-11-at-16-07-06" height="300"></a>
 
 
+Design by https://www.instagram.com/rayfandesign/
