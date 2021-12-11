@@ -2,7 +2,7 @@
 
 A new messenger app developed using Flutter.
 
-## Screens
+## Screenshots
 
 <a href="https://ibb.co/5BB1CfS"><img src="https://i.ibb.co/3BBTVLj/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2021-12-11-at-16-06-37.png" alt="Simulator-Screen-Shot-i-Phone-11-Pro-Max-2021-12-11-at-16-06-37" height="300"></a>
 <a href="https://ibb.co/RpZFSdv"><img src="https://i.ibb.co/Y7YCWwR/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2021-12-11-at-16-06-40.png" alt="Simulator-Screen-Shot-i-Phone-11-Pro-Max-2021-12-11-at-16-06-40" height="300"></a>
